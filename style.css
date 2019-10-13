@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.spisok_file{
+	width:500px;
+	margin: auto;
+}
+.p1{
+	cursor: pointer;
+    float: left;
+    width: 450px;
+}
+.papka{
+	width: 20px;
+}
+.close{
+	width: 15px;
+    float: right;
+    cursor: pointer;
+}
